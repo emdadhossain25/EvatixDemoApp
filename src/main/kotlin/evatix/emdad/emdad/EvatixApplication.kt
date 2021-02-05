@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class EvatixApplication
 
 fun main(args: Array<String>) {
+//    added some comment
     runApplication<EvatixApplication>(*args)
 }
